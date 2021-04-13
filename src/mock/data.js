@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: "dldhk97's portfolio", // e.g: 'Name | Developer'
   lang: 'kr', // e.g: en, es, fr, jp
-  description: 'dldhk97 포트폴리오 사이트에 오신 것을 환영합니다!', // e.g: Welcome to my website
+  description: '포트폴리오 사이트에 오신 것을 환영합니다!', // e.g: Welcome to my website
 };
 
 // HERO DATA
