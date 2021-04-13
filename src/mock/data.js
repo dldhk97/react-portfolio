@@ -54,9 +54,9 @@ export const projectsData = [
     participated: '개발 인원 : 4(Back-end 1명, Front-end 3명)',
     charge: '담당 : Back-end, Server, DB, ML',
     stack: '기술 스택 : Python, Django, Selenium, KoGPT2, Chrome Extension, MySQL',
-    url: '',
+    url: 'https://www.youtube.com/watch?v=jRRG8GmvY2Q',
     repo: 'https://github.com/dldhk97/Naver-Blog-Post-Analyzer', // if no repo, the button will not show up
-    seeLiveTitle: '',
+    seeLiveTitle: '동영상 보기',
   },
   {
     id: nanoid(),
