@@ -107,8 +107,8 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: '아래 이메일로 연락해주세요!',
-  btn: 'dldhk97@naver.com',
-  email: 'dldhk97@naver.com',
+  btn: 'dldhk97@gmail.com',
+  email: 'dldhk97@gmail.com',
 };
 
 // FOOTER DATA
